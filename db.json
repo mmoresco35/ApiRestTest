@@ -1,11 +1,17 @@
 {
-  "posts": [
+  "document": {
+  "name": "documento",
+  "body": "aqui va el cuerpo en base 64",
+  "Firmantes": 
+    [
     {
-      "id": 1,
-      "title": "https://my-json-server.typicode.com/mmoresco35/ApiRestTest/posts/     https://jsonplaceholder.typicode.com/"
+      "nombre":"firmate de prueba",
+      "documento":"12345678a"
+    },
+    {
+      "nombre":"firmate de prueba",
+      "documento":"12345678a"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    ]
+}
 }
