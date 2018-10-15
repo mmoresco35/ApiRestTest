@@ -1,17 +1,21 @@
 {
-  "document": {
-  "name": "documento",
-  "body": "aqui va el cuerpo en base 64",
-  "Firmantes": 
-    [
-    {
-      "nombre":"firmate de prueba",
-      "documento":"12345678a"
-    },
-    {
-      "nombre":"firmate de prueba",
-      "documento":"12345678a"
-    }
-    ]
-}
+  "id": 1,
+  "comentario": "mater tua mala burra est",
+  "username": "olegario"
+},{
+  "id": 2,
+  "comentario": "tua mala mater burra est",
+  "username": "argapito"
+},{
+  "id": 3,
+  "comentario": "mater  mala tua burra est",
+  "username": "teodobico"
+},{
+  "id": 4,
+  "comentario": "mala mater tua burra est",
+  "username": "clodoveo"
+},{
+  "id": 5,
+  "comentario": "dominus bobiscum",
+  "username": "fraijosefo"
 }
